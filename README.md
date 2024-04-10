@@ -1,3 +1,3 @@
-<img src="eid.png>
+<img src="eid.png">
 # EidSalami
 <h3>https://khushbul10.github.io/EidSalami/</h3>
