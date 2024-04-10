@@ -1,3 +1,3 @@
+<h1 align="center">Eid Salami</h1>
 <img src="eid.png">
-# EidSalami
 <h3>https://khushbul10.github.io/EidSalami/</h3>
